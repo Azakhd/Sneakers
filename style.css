@@ -265,7 +265,8 @@ a {
 	font-size: 30px;
 	width: 270px;
 	justify-content: center;
-	font-family: 'Poetsen One';
+	font-family: 'Piedra';
+	margin-top: 15px;
 }
 
 .to-come-in__content {
@@ -1137,6 +1138,7 @@ a {
 
 
 .title__facebook {
+	font-family: 'Piedra';
 	color: #ffffff;
 	height: 40px;
 	display: flex;
@@ -1167,6 +1169,7 @@ a {
 	color: #ffffff;
 	height: 40px;
 	justify-content: center;
+	font-family: 'Piedra';
 }
 
 .title__YouTube {
@@ -1174,6 +1177,7 @@ a {
 	color: #ffffff;
 	display: flex;
 	justify-content: center;
+	font-family: 'Piedra';
 
 }
 
