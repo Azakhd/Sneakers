@@ -151,7 +151,6 @@ a {
 	font-family: 'Lakki Reddy';
 	color: aliceblue;
 	font-size: 40px;
-
 }
 
 .header__arrow {
@@ -267,6 +266,7 @@ a {
 	justify-content: center;
 	font-family: 'Piedra';
 	margin-top: 15px;
+	font-family: 'Piedra';
 }
 
 .to-come-in__content {
@@ -1143,6 +1143,7 @@ a {
 	height: 40px;
 	display: flex;
 	justify-content: center;
+	align-items: center;
 }
 
 .facebook,
@@ -1170,6 +1171,7 @@ a {
 	height: 40px;
 	justify-content: center;
 	font-family: 'Piedra';
+	align-items: center;
 }
 
 .title__YouTube {
@@ -1178,7 +1180,7 @@ a {
 	display: flex;
 	justify-content: center;
 	font-family: 'Piedra';
-
+	align-items: center;
 }
 
 footer {
