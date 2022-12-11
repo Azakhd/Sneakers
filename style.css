@@ -333,7 +333,7 @@ a {
 
 .log {
 	border: 1px solid #000;
-    margin: 30px 0px ;
+	margin: 15px 0px 30px 0px;
     width: auto;
     min-width: 60px;
     height: 30px;
@@ -892,9 +892,17 @@ a {
 		max-width: 190px;
 		top: -75px;
 	}
+	.footer__title {
+		font-size: 28px;
+		width: 85px;
+		left: 10px;
+		top: 20px;
+		height: 27px;
+		width: auto;
+	}
 }
 
-@media (max-width:347px) {}
+
 
 #slider {
 	/*положение слайдера*/
@@ -1231,7 +1239,7 @@ footer {
 	background-color: rgb(255, 255, 255);
 	color: #000;
 	position: absolute;
-	width: auto;
+	
 }
 
 .footer__Payment-and-delivery {
